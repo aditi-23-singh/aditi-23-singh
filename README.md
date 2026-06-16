@@ -128,7 +128,7 @@ Active contributor to the literary and creative activities of the institute.
 
 * 📧 Email: [aditisingh4725@gmail.com](mailto:aditisingh4725@gmail.com)
 * 💼 LinkedIn: www.linkedin.com/in/aditi-singh-484104252
-* 🌐 GitHub: [(https://github.com/aditi-23-singh)](https://github.com/aditi-23-singh)
+* 🌐 GitHub: [https://github.com/aditi-23-singh](https://github.com/aditi-23-singh)
 
 ---
 
