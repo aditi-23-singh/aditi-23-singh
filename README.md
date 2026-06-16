@@ -132,4 +132,14 @@ Active contributor to the literary and creative activities of the institute.
 
 ---
 
-> "Building intelligent systems from silicon to software."
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+You+For+Stopping+By!+😊;Have+An+Amazing+Day!+✨;" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a11cb,100:2575fc&section=footer"/>
+
+</div>
