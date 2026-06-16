@@ -86,7 +86,8 @@
 
 ### Junior Software Developer | HACKTECH
 
-* Working on a Machine Learning based Job Recommendation Platform
+* Developed an end-to-end job recommendation system using NLP, TF-IDF, and Cosine Similarity to match resumes with relevant job opportunities and generate personalized recommendations.
+* Implemented resume parsing, skill-gap analysis, and recommendation evaluation using Precision@K, Recall@K, and F1-Score, with deployment through a web-based application.
 
 ---
 
