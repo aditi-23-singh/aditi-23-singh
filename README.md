@@ -69,12 +69,14 @@ Passionate about **VLSI Design, FPGA Systems, Embedded Systems, and Machine Lear
 * Performed preprocessing, feature selection, and SMOTE balancing
 * Analyzed academic and lifestyle factors affecting burnout
 
-### 🛠️ STM32 Embedded Systems Development
+### 🐚 Custom Linux Shell 
 
-* Configured GPIO, UART, Timers and Interrupts on STM32F051
-* Interfaced TMC2208 stepper motor driver
-* Implemented matrix keypad scanning with debouncing
-* Designed a custom PCB using KiCad
+- Developed a Unix-like shell in C from scratch.
+- Implemented built-in commands such as `cd`, `pwd`, `echo`, `exit`, `setenv`, and `unsetenv`.
+- Build command parsing, process creation, and execution using Linux system calls.
+- Handl environment variables, directory navigation, and error management.
+- Used Makefiles, Git, and GitHub for project organization and version control.
+- Designed to strengthen understanding of Operating Systems, process management, and shell internals.
 
 ---
 
