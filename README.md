@@ -8,7 +8,6 @@
 ## 👩‍💻 About Me
 
 * 🎓 B.Tech in Electronics & Communication Engineering at NIT Sikkim (2023–2027)
-* 📊 Current CGPA: **8.73**
 * 🔬 Interested in **VLSI Design, ASIC Design, FPGA Systems, and Embedded Engineering**
 * ⚡ Experienced with **Verilog, SystemVerilog, STM32, Vivado, and Cadence Virtuoso**
 * 🤖 Exploring **Machine Learning and AI-driven applications**
